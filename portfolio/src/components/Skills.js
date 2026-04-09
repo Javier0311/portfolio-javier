@@ -24,8 +24,6 @@ const Skills = () => {
           <ul>
             <li>Python & Django</li>
             <li>PHP & MySQL</li>
-            <li>RESTful APIs</li>
-            <li>Database Architecture</li>
           </ul>
         </div>
         
