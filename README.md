@@ -8,8 +8,7 @@ Welcome to the repository of my personal web developer portfolio! This project w
 
 > **Note:** Here is a preview of the portfolio's responsive design.
 
-*(Add your screenshots here to meet project requirements!)*
-![Portfolio Preview](./public/assets/portfolio.jpg)
+![Portfolio Preview](./portfolio/public/assets/portfolio.jpg)
 
 ## ✨ Key Features
 - **Fully Responsive:** Engineered with a strict Mobile-First CSS architecture, ensuring a seamless and polished experience across smartphones, tablets, and desktops.
