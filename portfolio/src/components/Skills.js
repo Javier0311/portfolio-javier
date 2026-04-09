@@ -14,6 +14,7 @@ const Skills = () => {
             <li>React.js & Vue.js</li>
             <li>JavaScript (ES6+)</li>
             <li>Tailwind CSS & Bootstrap</li>
+            <li>HTML5 & CSS3</li>
             <li>Responsive Design</li>
           </ul>
         </div>
